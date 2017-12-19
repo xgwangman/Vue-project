@@ -1,0 +1,62 @@
+//获取用户自己发布的约行
+{
+    "data": [{
+            "joinMax": "10",
+            "clicks": 2393,
+            "content": "庐山是一座集风景、文化、宗教、教育、政治为一体的千古名山。庐山以雄、奇、险、秀闻名于世，素有“匡庐奇秀甲天下”之美誉。庐山因为别墅成为避暑名山，漫山遍野的别墅群让你眼花缭乱。同时庐山的瀑布也闻名于世，来庐山赏别墅，观瀑布成为必参加项目。",
+            "travelPic": "http://ac-afkydcqq.clouddn.com/f7a0443a710ceded28ef.jpg",
+            "endTime": {
+                "__type": "Date",
+                "iso": "2017-03-28T05:41:00.000Z"
+            },
+            "joinNum": 0,
+            "joinUser": [
+                "58d88609a22b9d00646ada5f"
+            ],
+            "title": "庐山游",
+            "releaseUsername": "哈哈",
+            "releaseUserId": "5836c4ea67f3560065f52b5d",
+            "cantJoinTime": {
+                "__type": "Date",
+                "iso": "2017-03-16T05:41:00.000Z"
+            },
+            "beginTime": {
+                "__type": "Date",
+                "iso": "2017-02-28T05:41:00.000Z"
+            },
+            "releaseTime": "2017-02-28 13:37:50",
+            "destination": "江西 九江 庐山区 江西省九江市",
+            "objectId": "58b50cae570c350058aaeb25",
+            "createdAt": "2017-02-28T05:37:50.528Z",
+            "updatedAt": "2017-05-08T13:05:22.004Z"
+        },
+        {
+            "joinMax": "5",
+            "clicks": 927,
+            "content": "在三亚，如果你有伴儿，三亚将满足你对一场饱含山盟海誓的恋爱的全部幻想；如果你是一个人，三亚也不会让你得空去嗟叹，你可以在亚洲潜水圣地蜈支洲岛海湾零距离观赏珊瑚礁，可以去热带雨林探奇，可以私享一场接一场的SPA盛宴，可以爬上观日岩等待日出、在“亚洲第一大道”椰梦长廊静候日落……在三亚，你就是一个被大自然宠坏的孩子！",
+            "travelPic": "http://ac-afkydcqq.clouddn.com/f7a0443a710ceded28ef.jpg",
+            "endTime": {
+                "__type": "Date",
+                "iso": "2017-03-23T03:10:00.000Z"
+            },
+            "joinNum": 0,
+            "title": "hhhhhhh",
+            "releaseUsername": "海南三亚5日游",
+            "releaseUserId": "5836c4ea67f3560065f52b5d",
+            "cantJoinTime": {
+                "__type": "Date",
+                "iso": "2017-02-28T03:10:00.000Z"
+            },
+            "beginTime": {
+                "__type": "Date",
+                "iso": "2017-02-28T03:10:00.000Z"
+            },
+            "releaseTime": "2017-02-28 11:10:56",
+            "destination": "海南 三亚 东湖区 efrgvv",
+            "objectId": "58b4ea408fd9c50064bf9fa2",
+            "createdAt": "2017-02-28T03:10:56.516Z",
+            "updatedAt": "2017-04-30T11:45:28.946Z"
+        }
+    ],
+    "success": true
+}
